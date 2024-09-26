@@ -66,12 +66,12 @@ valor_total = sum(valor)
 
 while True:
     forma_pagamento = input("Escolha a forma de pagamento ( V - á Vista, C Cartão de crédito): ")
-    if forma_pagamento == "V" or "v":
+    if forma_pagamento in ("V" , "v"):
         desconto = valor_total * 0.10
         total = valor_total - desconto
         pagamento = " Á Vista"
         break
-    elif forma_pagamento == "C" or "c":
+    elif forma_pagamento in( "C" , "c"):
         valor_total * 0.10
         total = valor_total + desconto
         pagamento = "Cartão de crédito"
