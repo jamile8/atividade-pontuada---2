@@ -71,7 +71,7 @@ while True:
         total = valor_total - desconto
         pagamento = " Á Vista"
         break
-    elif forma_pagamento in( "C" , "c"):
+    elif forma_pagamento in ( "C" , "c"):
         valor_total * 0.10
         total = valor_total + desconto
         pagamento = "Cartão de crédito"
