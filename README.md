@@ -29,3 +29,4 @@ Desenvolvam juntos um sistema que permita ao usuário visualizar o cardápio com
 - Usem controle de versão (Git) para gerenciar o projeto e garantir que o progresso esteja salvo. A cada funcionalidade finalizada, façam um commit para registrar as mudanças.
 
 **Lembrem-se: comunicação e colaboração são as chaves para o sucesso de um projeto de desenvolvimento de software!**
+
